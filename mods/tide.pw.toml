@@ -1,0 +1,13 @@
+name = "Tide"
+filename = "tide-forge-1.20.1-1.6.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/die1AF7i/versions/xCavKJDC/tide-forge-1.20.1-1.6.3.jar"
+hash-format = "sha512"
+hash = "04a009a7edb9117ca71552e9122ef33f32d783042a4915d3511fd818fc5883eae5bf0f43d6fa67868ca7423bdd72f96d4d3751a45fd86827b8758f5e4c8f5990"
+
+[update]
+[update.modrinth]
+mod-id = "die1AF7i"
+version = "xCavKJDC"

@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "terramity:custom/hellrokgigatonhammer",
+	"textures": {
+		"particle": "terramity:item/hellrok_gigaton_hammer"
+	}
+}

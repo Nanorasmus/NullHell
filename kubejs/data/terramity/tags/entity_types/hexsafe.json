@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "terramity:gundalf",
+    "terramity:enchanter_merlin",
+    "terramity:sorceress_circe",
+    "terramity:trial_guardian",
+    "corundumguardian:corundum_guardian"
+  ]
+}

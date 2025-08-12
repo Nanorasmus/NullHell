@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "terramity:flintlock_pistol",
+    "terramity:vulcan",
+    "terramity:requiem",
+    "terramity:flare_gun",
+    "terramity:meteor_cannon"
+  ]
+}

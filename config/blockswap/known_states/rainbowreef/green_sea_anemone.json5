@@ -1,0 +1,329 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"colour": "0"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"colour": "0"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"colour": "0"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"colour": "0"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"colour": "0"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"colour": "0"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"colour": "0"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"colour": "0"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "up",
+			"colour": "0"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "up",
+			"colour": "0"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "down",
+			"colour": "0"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "down",
+			"colour": "0"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"colour": "1"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"colour": "1"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"colour": "1"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"colour": "1"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"colour": "1"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"colour": "1"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"colour": "1"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"colour": "1"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "up",
+			"colour": "1"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "up",
+			"colour": "1"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "down",
+			"colour": "1"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "down",
+			"colour": "1"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"colour": "2"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"colour": "2"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"colour": "2"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"colour": "2"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"colour": "2"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"colour": "2"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"colour": "2"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "up",
+			"colour": "2"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "up",
+			"colour": "2"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "down",
+			"colour": "2"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "down",
+			"colour": "2"
+		},
+		"Name": "rainbowreef:green_sea_anemone"
+	}
+]

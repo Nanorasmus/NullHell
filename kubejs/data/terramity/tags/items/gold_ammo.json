@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "terramity:advanced_burst_rifle",
+    "terramity:advanced_pistol",
+    "terramity:suppressed_advanced_pistol",
+    "terramity:advanced_automatic_rifle",
+    "terramity:big_iron",
+    "terramity:requiem",
+    "terramity:basic_rifle",
+    "terramity:elite_rifle",
+    "terramity:plague_pistol"
+  ]
+}

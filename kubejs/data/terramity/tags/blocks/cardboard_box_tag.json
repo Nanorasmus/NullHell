@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "terramity:cardboard_block",
+    "terramity:cardboard_box",
+    "terramity:cardboard_box_marked"
+  ]
+}

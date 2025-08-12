@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "terramity:reinforced_blackstone_tiles",
+    "minecraft:blackstone",
+    "terramity:brimslag"
+  ]
+}

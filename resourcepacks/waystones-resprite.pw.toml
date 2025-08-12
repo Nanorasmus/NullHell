@@ -1,0 +1,13 @@
+name = "Waystones Resprite"
+filename = "waystone resprite 1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/v56xtWVN/versions/YbmxATTp/waystone%20resprite%201.1.zip"
+hash-format = "sha512"
+hash = "f83e02c8e6d451c55f76b764702c12ae764290831ca284abe0b1594b85d2ef068a5932fb26c8bd934a5f40b2a19778e8a71d616324bca57ebff53c86641473fa"
+
+[update]
+[update.modrinth]
+mod-id = "v56xtWVN"
+version = "YbmxATTp"

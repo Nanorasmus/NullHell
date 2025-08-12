@@ -1,0 +1,13 @@
+name = "Armor Impact Sounds"
+filename = "armor_impact-0.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pqYWfEo0/versions/WGPtIHYe/armor_impact-0.3-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "ab8ca8f7c792b46b0796cdc39dd068cb8537a8d96fd55dd9774ff52952e8664a2fa86061409d32be0b0ede1be868218809b8852e9aab4c57add77a2f2ed1ef9b"
+
+[update]
+[update.modrinth]
+mod-id = "pqYWfEo0"
+version = "WGPtIHYe"

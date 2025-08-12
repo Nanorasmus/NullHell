@@ -1,0 +1,13 @@
+name = "Armor Damage Limit"
+filename = "ArmorDamageLimit-1.20.1-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1CVpKaSj/versions/4rmJLPgU/ArmorDamageLimit-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "2f9b308d3a0c792db7239954c2e880bb9c07c1722faa4af8867689d7f2f63d4dafbf0a26074e4861b6be3ee35bc898fae9624d586d8da0faaa528a90ed27fcb7"
+
+[update]
+[update.modrinth]
+mod-id = "1CVpKaSj"
+version = "4rmJLPgU"

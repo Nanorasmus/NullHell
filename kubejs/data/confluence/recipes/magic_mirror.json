@@ -1,0 +1,14 @@
+{
+    "type": "confluence:workshop",
+    "ingredients": [
+        {
+            "item": "minecraft:diamond"
+        },
+        {
+            "item": "terramity:warp_whistle"
+        }
+    ],
+    "result": {
+        "item": "confluence:magic_mirror"
+    }
+}

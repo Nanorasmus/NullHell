@@ -1,0 +1,13 @@
+name = "Raised"
+filename = "raised-forge-1.20.1-5.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/hDkDEjbP/raised-forge-1.20.1-5.0.1.jar"
+hash-format = "sha512"
+hash = "e1f80fbd8283c96787692c27d98c8483d24fb5980b4af0a5bfc67c6faa9b5b7e060f763518ecb7f8f634e02739ad06377fb8d8ee72462089e1b54cdd80c9a9e7"
+
+[update]
+[update.modrinth]
+mod-id = "nCQRBEiR"
+version = "hDkDEjbP"

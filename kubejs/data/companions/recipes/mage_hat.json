@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ll",
+    " i ",
+    "lxl"
+  ],
+  "key": {
+    "l": {
+      "item": "minecraft:leather"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "x": {
+      "item": "minecraft:diamond_helmet"
+    }
+  },
+  "result": {
+    "item": "companions:mage_hat",
+    "count": 1
+  }
+}

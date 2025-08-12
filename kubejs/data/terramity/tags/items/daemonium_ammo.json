@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "terramity:sawed_off_shotgun",
+    "terramity:pump_action_shotgun",
+    "terramity:onyx_storm",
+    "terramity:cosmic_storm",
+    "terramity:plaguebringer"
+  ]
+}

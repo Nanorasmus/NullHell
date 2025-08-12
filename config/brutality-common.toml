@@ -1,0 +1,14 @@
+
+["Brutality Common Config"]
+	#Should Atomic Judgement break blocks (Default = False)
+	atomicJudgementShouldBreakBlocks = false
+	#Pull Strength of the Black Hole (Default = 1.0)
+	#Range: 0.1 ~ 10.0
+	blackHolePullStrength = 1.0
+	#Black Hole Tick Damage (Default = 2)
+	#Range: 0 ~ 10
+	blackHoleTickDamage = 2
+	#How many times Gungnir will hit before returning (Default = 3)
+	#Range: 0 ~ 10
+	gungnirHitQuota = 3
+

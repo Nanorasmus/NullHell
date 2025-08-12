@@ -1,0 +1,9 @@
+{
+  "replace": false,
+
+  "values": [
+    "#forge:is_desert",
+    "#forge:is_hot/overworld",
+    "terramity:scorched_caves"
+  ]
+}

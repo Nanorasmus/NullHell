@@ -1,0 +1,13 @@
+name = "nullhell"
+author = "Monachrome"
+version = "1.0.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dacbade1329af73b4d36529989fc2b30e2b301d0e080ea405c1b54146ff9fadc"
+
+[versions]
+forge = "47.4.6"
+minecraft = "1.20.1"

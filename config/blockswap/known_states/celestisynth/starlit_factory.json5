@@ -1,0 +1,329 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "left",
+			"forging": "true",
+			"facing": "north"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "middle",
+			"forging": "true",
+			"facing": "north"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "right",
+			"forging": "true",
+			"facing": "north"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "left",
+			"forging": "false",
+			"facing": "north"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "right",
+			"forging": "false",
+			"facing": "north"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "left",
+			"forging": "true",
+			"facing": "east"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "middle",
+			"forging": "true",
+			"facing": "east"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "right",
+			"forging": "true",
+			"facing": "east"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "left",
+			"forging": "false",
+			"facing": "east"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "middle",
+			"forging": "false",
+			"facing": "east"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "right",
+			"forging": "false",
+			"facing": "east"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "left",
+			"forging": "true",
+			"facing": "south"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "middle",
+			"forging": "true",
+			"facing": "south"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "right",
+			"forging": "true",
+			"facing": "south"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "left",
+			"forging": "false",
+			"facing": "south"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "middle",
+			"forging": "false",
+			"facing": "south"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "right",
+			"forging": "false",
+			"facing": "south"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "left",
+			"forging": "true",
+			"facing": "west"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "middle",
+			"forging": "true",
+			"facing": "west"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "right",
+			"forging": "true",
+			"facing": "west"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "left",
+			"forging": "false",
+			"facing": "west"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "middle",
+			"forging": "false",
+			"facing": "west"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "right",
+			"forging": "false",
+			"facing": "west"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "left",
+			"forging": "true",
+			"facing": "up"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "middle",
+			"forging": "true",
+			"facing": "up"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "right",
+			"forging": "true",
+			"facing": "up"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "left",
+			"forging": "false",
+			"facing": "up"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "middle",
+			"forging": "false",
+			"facing": "up"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "right",
+			"forging": "false",
+			"facing": "up"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "left",
+			"forging": "true",
+			"facing": "down"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "middle",
+			"forging": "true",
+			"facing": "down"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "right",
+			"forging": "true",
+			"facing": "down"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "left",
+			"forging": "false",
+			"facing": "down"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "middle",
+			"forging": "false",
+			"facing": "down"
+		},
+		"Name": "celestisynth:starlit_factory"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"tri_part": "right",
+			"forging": "false",
+			"facing": "down"
+		},
+		"Name": "celestisynth:starlit_factory"
+	}
+]

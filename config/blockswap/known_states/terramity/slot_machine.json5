@@ -1,0 +1,454 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"animation": "0"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"animation": "0"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"animation": "0"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"animation": "1"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"animation": "1"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"animation": "1"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"animation": "1"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"animation": "2"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"animation": "2"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"animation": "2"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"animation": "2"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"animation": "3"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"animation": "3"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"animation": "3"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"animation": "3"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"animation": "4"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"animation": "4"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"animation": "4"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"animation": "4"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"animation": "5"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"animation": "5"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"animation": "5"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"animation": "5"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"animation": "6"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"animation": "6"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"animation": "6"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"animation": "6"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"animation": "7"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"animation": "7"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"animation": "7"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"animation": "7"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"animation": "8"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"animation": "8"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"animation": "8"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"animation": "8"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"animation": "9"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"animation": "9"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"animation": "9"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"animation": "9"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"animation": "10"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"animation": "10"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"animation": "10"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"animation": "10"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"animation": "11"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"animation": "11"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"animation": "11"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"animation": "11"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"animation": "12"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"animation": "12"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"animation": "12"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"animation": "12"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"animation": "13"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"animation": "13"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"animation": "13"
+		},
+		"Name": "terramity:slot_machine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"animation": "13"
+		},
+		"Name": "terramity:slot_machine"
+	}
+]

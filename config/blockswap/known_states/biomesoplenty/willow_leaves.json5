@@ -1,0 +1,564 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"mossy": "true",
+			"distance": "1"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"mossy": "true",
+			"distance": "1"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"mossy": "true",
+			"distance": "1"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"mossy": "true",
+			"distance": "1"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"mossy": "false",
+			"distance": "1"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"mossy": "false",
+			"distance": "1"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"mossy": "false",
+			"distance": "1"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"mossy": "false",
+			"distance": "1"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"mossy": "true",
+			"distance": "2"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"mossy": "true",
+			"distance": "2"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"mossy": "true",
+			"distance": "2"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"mossy": "true",
+			"distance": "2"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"mossy": "false",
+			"distance": "2"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"mossy": "false",
+			"distance": "2"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"mossy": "false",
+			"distance": "2"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"mossy": "false",
+			"distance": "2"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"mossy": "true",
+			"distance": "3"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"mossy": "true",
+			"distance": "3"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"mossy": "true",
+			"distance": "3"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"mossy": "true",
+			"distance": "3"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"mossy": "false",
+			"distance": "3"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"mossy": "false",
+			"distance": "3"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"mossy": "false",
+			"distance": "3"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"mossy": "false",
+			"distance": "3"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"mossy": "true",
+			"distance": "4"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"mossy": "true",
+			"distance": "4"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"mossy": "true",
+			"distance": "4"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"mossy": "true",
+			"distance": "4"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"mossy": "false",
+			"distance": "4"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"mossy": "false",
+			"distance": "4"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"mossy": "false",
+			"distance": "4"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"mossy": "false",
+			"distance": "4"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"mossy": "true",
+			"distance": "5"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"mossy": "true",
+			"distance": "5"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"mossy": "true",
+			"distance": "5"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"mossy": "true",
+			"distance": "5"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"mossy": "false",
+			"distance": "5"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"mossy": "false",
+			"distance": "5"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"mossy": "false",
+			"distance": "5"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"mossy": "false",
+			"distance": "5"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"mossy": "true",
+			"distance": "6"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"mossy": "true",
+			"distance": "6"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"mossy": "true",
+			"distance": "6"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"mossy": "true",
+			"distance": "6"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"mossy": "false",
+			"distance": "6"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"mossy": "false",
+			"distance": "6"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"mossy": "false",
+			"distance": "6"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"mossy": "false",
+			"distance": "6"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"mossy": "true",
+			"distance": "7"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"mossy": "true",
+			"distance": "7"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"mossy": "true",
+			"distance": "7"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"mossy": "true",
+			"distance": "7"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"mossy": "false",
+			"distance": "7"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"mossy": "false",
+			"distance": "7"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"mossy": "false",
+			"distance": "7"
+		},
+		"Name": "biomesoplenty:willow_leaves"
+	},
+	{
+		"Name": "biomesoplenty:willow_leaves"
+	}
+]
