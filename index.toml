@@ -27394,6 +27394,11 @@ hash = "77eb951aea38d711bb8bddd89b66b65a2ce7423d93525843a409b57e03f02fa1"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "33fbfba45630792a9223d4e20c9300bc9fef142c68781fc648c32b62313f3e16"
+metafile = true
+
+[[files]]
 file = "mods/celestisynth.pw.toml"
 hash = "f16edc2d98161b5876351ab71ece58e27ca378f900f227a8a7dd0e8d846a3022"
 metafile = true
