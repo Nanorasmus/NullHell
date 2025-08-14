@@ -1,6 +1,6 @@
 name = "Multiplayer Bosses"
 filename = "multiplayerbosses-1.1.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NM5vwUDS/versions/PQkK4fON/multiplayerbosses-1.1.3.jar"
