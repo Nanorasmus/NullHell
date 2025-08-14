@@ -1,0 +1,13 @@
+name = "Lethality - A Terramity Addon"
+filename = "lethality-0.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d144fe8e6f09aef23a1678804fd23965c34ff7f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6766042
+project-id = 1282036

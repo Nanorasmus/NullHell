@@ -1,0 +1,13 @@
+name = "Rainbow Reef"
+filename = "rainbowreef-2.4-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Zm2dJJTM/versions/F1I7quJH/rainbowreef-2.4-1.20.1.jar"
+hash-format = "sha512"
+hash = "c67e63b79d4cd65f079af3c429a7d358ca660f14a48a1cdd266d776660b7109ea5524e33e54e34690f645145987aef7afefe2c60e9a40c15bd970f14351377e7"
+
+[update]
+[update.modrinth]
+mod-id = "Zm2dJJTM"
+version = "F1I7quJH"

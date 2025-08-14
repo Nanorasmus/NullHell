@@ -1,0 +1,13 @@
+name = "Archery Expansion"
+filename = "ArcheryExpansion-forge-1.20.1-1.0.6-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OjmvUYTD/versions/F4yAsdqg/ArcheryExpansion-forge-1.20.1-1.0.6-all.jar"
+hash-format = "sha512"
+hash = "927108c9a86e88d1f0ef26c41dd1f55968be1723e008c55b84578a5bed8118dc0068901716ed7c2e95699a1fc49ec1231113c809c50f120f364be6445c91dbbb"
+
+[update]
+[update.modrinth]
+mod-id = "OjmvUYTD"
+version = "F4yAsdqg"

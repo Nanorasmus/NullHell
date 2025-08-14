@@ -1,0 +1,13 @@
+name = "Nirvana"
+filename = "nirvana-forge-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3d15e58b19200205f4e545e03f9be50337efa62"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6661381
+project-id = 1278909

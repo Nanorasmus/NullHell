@@ -1,0 +1,13 @@
+name = "Knight Lib"
+filename = "knightlib-forge-1.20.1-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hAnl9nbm/versions/WZsp9Z8s/knightlib-forge-1.20.1-1.3.1.jar"
+hash-format = "sha512"
+hash = "10fa6a3ddd62b3d51dd6b5c37014f112c6b367f91ce1660d9dcffb4b0cf6972a79299a4c59987efffe1a38838e5aef9a8a2fd2632b6810b2e94066f1c33fad5b"
+
+[update]
+[update.modrinth]
+mod-id = "hAnl9nbm"
+version = "WZsp9Z8s"
