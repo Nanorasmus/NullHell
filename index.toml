@@ -27919,10 +27919,6 @@ hash = "311e6ff7804f35deac9b3bd48bba8708590f1d8b6648048e7a021b4c5583d3fc"
 metafile = true
 
 [[files]]
-file = "mods/nirvana-forge-1.2.1.jar"
-hash = "46990b6ea6902442d4fda76c8e82a4f3757257c3e515f98910f06f53e15d6c23"
-
-[[files]]
 file = "mods/nirvana.pw.toml"
 hash = "d30d0aeb083b6de6c847fdc0d445d6b195ccaf922df78ebbb9cfde6b3a64348a"
 metafile = true
