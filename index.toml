@@ -27209,6 +27209,11 @@ file = "mods/TerraCurio-0.1.12-all.jar"
 hash = "51c80521605f069fc8c352a0c8b3d37b3a443e35b71c7307697914534dc8ade6"
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "b0c71950ebcbed60805b1d30b1f5107bd3a96f95f89a99be8adfaf98e97b3749"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "bf4133b4ac7b08983c98dcfb4cbfe4cc2b10698efb935d19378fd6a27490dd22"
 metafile = true
@@ -27314,6 +27319,11 @@ hash = "0083555f3f8a180241b81287a0998f028c7377751c86f2755e734b3b29f9fd3b"
 metafile = true
 
 [[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "4db5860026e59a5179afe8caa24d09787b807091e53a46e5e6c0437e67c5c43e"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "94910057d9bf56c60c393a3cfe745f78c971005d74d9992462be7527c13315c2"
 metafile = true
@@ -27376,6 +27386,11 @@ metafile = true
 [[files]]
 file = "mods/buzzier-bees.pw.toml"
 hash = "86aec83567cb69fb2eabc1d0b1e03b97ed3c290bb3b119144b7ea1857b7bd734"
+metafile = true
+
+[[files]]
+file = "mods/caduceus.pw.toml"
+hash = "0b4675d75ee3058086c71493993ec56b0e6e7cf99ed83192967576e6ee07dda6"
 metafile = true
 
 [[files]]
@@ -27449,6 +27464,11 @@ hash = "8aa0dbe3dab7d6569d1e96d8339fed1801a48c32ea3ac18036ad1e0bfc79af1f"
 metafile = true
 
 [[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "7490aa7761100edfb3c60cfe2aaac28af1c8edb1beb6aadbdfdb88cc47d02510"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "c098f8de47e41b1ef7b84b7094a1db73f7f764109f8ddd940e1f810aad5d1610"
 metafile = true
@@ -27501,6 +27521,11 @@ metafile = true
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "b3f89cbb1789f86dfe52f10a31fdfcea64a9474715c8170f218ae35fc9dcaf92"
+metafile = true
+
+[[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "a59b8d3f24dca88fc93b11707423719e1350fc68d7a9884ff47b252734b1a05f"
 metafile = true
 
 [[files]]
@@ -27674,6 +27699,31 @@ hash = "1635aa0e0df9d27f22de030955c8690061970abe26e3e913c4d950227aba4916"
 metafile = true
 
 [[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "59a167a2e05a518d25d1e6f1b4789bad66a47e7fa2909817c5ec433c7aa46661"
+metafile = true
+
+[[files]]
+file = "mods/hexdebug.pw.toml"
+hash = "324da80a3215bb8729330dadbe6f5ddc022b7d29411c29c803a027c0aff84e4f"
+metafile = true
+
+[[files]]
+file = "mods/hexflow.pw.toml"
+hash = "ad3098fce8129613510eadece95ba94cc8a9f21459a1c0792ce79c803caf7a72"
+metafile = true
+
+[[files]]
+file = "mods/hextweaks.pw.toml"
+hash = "3920e14488c4d2c89fbb32354cba5eb0feb457ef38815af9f2c22acef4f143bd"
+metafile = true
+
+[[files]]
+file = "mods/hexweb.pw.toml"
+hash = "7fa9fd05f6efd11cede25afa091a8c7014aed83674bb7800aa6bf7aa35005165"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
 metafile = true
@@ -27699,8 +27749,18 @@ hash = "239b4042820f3c77f2750690bac6a1ac09638f6fa6b47f3b486436e96deeb0e0"
 metafile = true
 
 [[files]]
+file = "mods/inline.pw.toml"
+hash = "9091cd2ee859de39c863e5e54c4b999b4bd01b7ba6f21c78fbc23a3a3f520bd1"
+metafile = true
+
+[[files]]
 file = "mods/invmove.pw.toml"
 hash = "0a4dfe260b881fa6a2f058fbed6dc617aaaed66d73ec65221169ccfa1d21f488"
+metafile = true
+
+[[files]]
+file = "mods/ioticblocks.pw.toml"
+hash = "fcc06536bbba1f535850aa6c53f53f36d8c7ee4f281998c8ce3e4f8a0e658400"
 metafile = true
 
 [[files]]
@@ -27874,6 +27934,10 @@ hash = "6e751d439bd79d7ea28edd68c4bd75a13ed0696908a470b73699cd887a9080e2"
 metafile = true
 
 [[files]]
+file = "mods/moreiotas-forge-1.20.1-0.1.0-5.jar"
+hash = "127054c462271adc93154a40ea9ef7c05da95847abc390cb21326a0210a250d9"
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
@@ -27961,6 +28025,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "3a4c0fe9052e2c63f96a08066fb18ba08f501e06e8ffd6e2c9240e86eab21304"
 metafile = true
 
 [[files]]
@@ -28144,6 +28213,11 @@ hash = "1fd9dddb35880e9262a0ef801d34058a0f77ddc21fb0e1fab0da07f692071d51"
 metafile = true
 
 [[files]]
+file = "mods/transmog.pw.toml"
+hash = "a0db24950948f1dd5e0b5dda408c5c1f40ac617a08e60de527ac6720dafd49c9"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "16e2c84951ba32efac8703ccb7b36631b70cb514d402fa8fb4f89031f2a63a58"
 metafile = true
@@ -28151,6 +28225,11 @@ metafile = true
 [[files]]
 file = "mods/traveloptics-5.4.2-1.20.1.jar"
 hash = "9f190321a65b071c2b9a12c6f72254637a1cd50945d1eab272ce63390a549a4c"
+
+[[files]]
+file = "mods/turtlematic.pw.toml"
+hash = "1a8984a958382b8676baa3fb51ac7615007c71cdc76b7bcc52e3e3d98186dc48"
+metafile = true
 
 [[files]]
 file = "mods/unusual-fish-mod.pw.toml"

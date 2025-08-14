@@ -1,0 +1,13 @@
+name = "HexFlow"
+filename = "hexFlow-forge-1.20.1-0.2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MRC1BQpK/versions/oXKtLWAX/hexFlow-forge-1.20.1-0.2.1.1.jar"
+hash-format = "sha512"
+hash = "94ca0a07e58de32174897a6398201d598e5656c1053b0f19a736ce8fd6408f7dc12d7f8a1f765d06c88abec2e434c66289415aa0722ff957df9eafc00e335de2"
+
+[update]
+[update.modrinth]
+mod-id = "MRC1BQpK"
+version = "oXKtLWAX"

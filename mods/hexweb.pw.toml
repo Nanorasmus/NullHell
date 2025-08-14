@@ -1,0 +1,13 @@
+name = "HexWeb"
+filename = "hexweb-forge-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tJ3gEnWO/versions/vkAIcdcf/hexweb-forge-1.0.5.jar"
+hash-format = "sha512"
+hash = "9b1d75246252ef5f9a191c9676b990685c565135cd22a8f19335cf0741cd1885c2fd7b19aa709b7182cc0f070ed50ed9c2c09f31a17729d40a4b1b02caddf931"
+
+[update]
+[update.modrinth]
+mod-id = "tJ3gEnWO"
+version = "vkAIcdcf"
