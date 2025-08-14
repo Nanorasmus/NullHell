@@ -1,109 +1,138 @@
 ServerEvents.recipes(e => {
+  e.recipes.create.crushing(
+    ['kubejs:magnetic_powder', Item.of('kubejs:infimetal').withChance(0.25)],
+    'kubejs:infimetal'
+  ).processingTime(1000)
 
-  e.recipes.create.crushing(['kubejs:magnetic_powder', Item.of('kubejs:infimetal').withChance(0.25)], 'kubejs:infimetal').processingTime(1000)
-})
-
-ServerEvents.recipes(e => {
-e.recipes.create.mixing('alexscaves:ferrouslime_ball', ['kubejs:magnetic_powder','3x minecraft:iron_nugget','minecraft:slime_ball']).heated()
-})
-ServerEvents.recipes(e => {
-e.recipes.create.sequenced_assembly([
-  Item.of('16x terramity:copper_round').withChance(100.0)
-], 'create:copper_sheet', [
-  e.recipes.createCutting('kubejs:incomplete_copper_round', ['kubejs:incomplete_copper_round']),
-  e.recipes.createDeploying('kubejs:incomplete_copper_round', ['kubejs:incomplete_copper_round', 'minecraft:gunpowder']),
-      e.recipes.createDeploying('kubejs:incomplete_copper_round', ['kubejs:incomplete_copper_round', 'minecraft:iron_nugget']),
-      e.recipes.createPressing('kubejs:incomplete_copper_round', ['kubejs:incomplete_copper_round'])
-  ]).transitionalItem('kubejs:incomplete_copper_round').loops(1)
-  
-  
-  e.recipes.create.sequenced_assembly([
-  Item.of('16x terramity:gold_round').withChance(100.0)
-], 'create:golden_sheet', [
-  e.recipes.createCutting('kubejs:incomplete_gold_round', ['kubejs:incomplete_gold_round']),
-  e.recipes.createDeploying('kubejs:incomplete_gold_round', ['kubejs:incomplete_gold_round', 'minecraft:gunpowder']),
-      e.recipes.createDeploying('kubejs:incomplete_gold_round', ['kubejs:incomplete_gold_round', '#forge:nuggets/copper']),
-      e.recipes.createPressing('kubejs:incomplete_gold_round', ['kubejs:incomplete_gold_round'])
-  ]).transitionalItem('kubejs:incomplete_gold_round').loops(1)
-
-  e.recipes.create.sequenced_assembly([
-    Item.of('48x terramity:dimlite_round').withChance(100.0)
-  ], 'terramity:dimlite_ingot', [
-    e.recipes.createCutting('kubejs:incomplete_dimlite_round', ['kubejs:incomplete_dimlite_round']),
-    e.recipes.createDeploying('kubejs:incomplete_dimlite_round', ['kubejs:incomplete_dimlite_round', 'minecraft:gunpowder']),
-        e.recipes.createDeploying('kubejs:incomplete_dimlite_round', ['kubejs:incomplete_dimlite_round', 'minecraft:iron_nugget']),
-        e.recipes.createPressing('kubejs:incomplete_dimlite_round', ['kubejs:incomplete_dimlite_round']),
-        e.recipes.createPressing('kubejs:incomplete_dimlite_round', ['kubejs:incomplete_dimlite_round'])
-    ]).transitionalItem('kubejs:incomplete_dimlite_round').loops(1)
-
-    e.recipes.create.sequenced_assembly([
-      Item.of('16x terramity:iridium_round').withChance(100.0)
-    ], 'terramity:iridium_chunk', [
-      e.recipes.createCutting('kubejs:incomplete_iridium_round', ['kubejs:incomplete_iridium_round']),
-      e.recipes.createDeploying('kubejs:incomplete_iridium_round', ['kubejs:incomplete_iridium_round', 'minecraft:gunpowder']),
-          e.recipes.createDeploying('kubejs:incomplete_iridium_round', ['kubejs:incomplete_iridium_round', 'minecraft:iron_nugget']),
-          e.recipes.createPressing('kubejs:incomplete_iridium_round', ['kubejs:incomplete_iridium_round']),
-          e.recipes.createPressing('kubejs:incomplete_iridium_round', ['kubejs:incomplete_iridium_round'])
-      ]).transitionalItem('kubejs:incomplete_iridium_round').loops(1)
-   
-      e.recipes.create.sequenced_assembly([
-        Item.of('16x terramity:antimatter_round').withChance(100.0)
-      ], 'terramity:void_alloy', [
-        e.recipes.createCutting('kubejs:incomplete_antimatter_round', ['kubejs:incomplete_antimatter_round']),
-        e.recipes.createDeploying('kubejs:incomplete_antimatter_round', ['kubejs:incomplete_antimatter_round', 'minecraft:gunpowder']),
-            e.recipes.createDeploying('kubejs:incomplete_antimatter_round', ['kubejs:incomplete_antimatter_round', 'minecraft:iron_nugget']),
-            e.recipes.createPressing('kubejs:incomplete_antimatter_round', ['kubejs:incomplete_antimatter_round']),
-            e.recipes.createPressing('kubejs:incomplete_antimatter_round', ['kubejs:incomplete_antimatter_round'])
-        ]).transitionalItem('kubejs:incomplete_antimatter_round').loops(1)
-        
-
-        e.recipes.create.sequenced_assembly([
-          Item.of('kubejs:complex_gun_mechanism').withChance(100.0)
-        ], 'terramity:advanced_gun_parts', [
-          e.recipes.createDeploying('create:incomplete_precision_mechanism', ['create:incomplete_precision_mechanism', 'minecraft:netherite_scrap']),
-              e.recipes.createDeploying('create:incomplete_precision_mechanism', ['create:incomplete_precision_mechanism', 'terramity:daemonium']),
-              e.recipes.createDeploying('create:incomplete_precision_mechanism', ['create:incomplete_precision_mechanism', 'create:golden_sheet']),
-              e.recipes.createPressing('create:incomplete_precision_mechanism', ['create:incomplete_precision_mechanism']),
-          ]).transitionalItem('create:incomplete_precision_mechanism').loops(2)
+  e.recipes.create.mixing(
+    'alexscaves:ferrouslime_ball',
+    ['kubejs:magnetic_powder','3x minecraft:iron_nugget','minecraft:slime_ball']
+  ).heated()
 
 
-  e.recipes.create.sequenced_assembly([
-  Item.of('alexscaves:notor_gizmo').withChance(100.0)
-], 'create:sturdy_sheet', [
-  e.recipes.createDeploying('alexscaves:game_controller', ['alexscaves:game_controller', 'alexscaves:raw_azure_neodymium']),
+  e.recipes.create.sequenced_assembly(
+    [Item.of('kubejs:complex_gun_mechanism').withChance(100.0)],
+    'terramity:advanced_gun_parts',
+    [
+      e.recipes.createDeploying('create:incomplete_precision_mechanism', ['create:incomplete_precision_mechanism', 'minecraft:netherite_scrap']),
+      e.recipes.createDeploying('create:incomplete_precision_mechanism', ['create:incomplete_precision_mechanism', 'terramity:daemonium']),
+      e.recipes.createDeploying('create:incomplete_precision_mechanism', ['create:incomplete_precision_mechanism', 'create:golden_sheet']),
+      e.recipes.createPressing('create:incomplete_precision_mechanism', ['create:incomplete_precision_mechanism']),
+    ]
+  ).transitionalItem('create:incomplete_precision_mechanism').loops(2)
+
+
+  e.recipes.create.sequenced_assembly(
+    [Item.of('alexscaves:notor_gizmo').withChance(100.0)],
+    'create:sturdy_sheet',
+    [
+      e.recipes.createDeploying('alexscaves:game_controller', ['alexscaves:game_controller', 'alexscaves:raw_azure_neodymium']),
       e.recipes.createDeploying('alexscaves:game_controller', ['alexscaves:game_controller', 'alexscaves:raw_scarlet_neodymium']),
       e.recipes.createDeploying('alexscaves:game_controller', ['alexscaves:game_controller', 'minecraft:glass']),
       e.recipes.createPressing('alexscaves:game_controller', ['alexscaves:game_controller'])
-  ]).transitionalItem('alexscaves:game_controller').loops(1)          
+    ]
+  ).transitionalItem('alexscaves:game_controller').loops(1)          
 
-e.recipes.create.sequenced_assembly([
-  Item.of('terramity:spire_key').withChance(100.0)
-], 'terramity:dimlite_upgrade_smithing_template', [
-  e.recipes.createDeploying('alexscaves:game_controller', ['alexscaves:game_controller', 'minecraft:diamond']),
+  //#region Terramity Firearms
+  e.recipes.create.sequenced_assembly(
+    [
+      Item.of('terramity:basic_pistol').withChance(80.0),
+      Item.of('create:iron_sheet').withChance(10.0),
+      Item.of('8x minecraft:iron_nugget').withChance(10.0)
+    ],
+    'terramity:flintlock_pistol',
+    [
+      e.recipes.createDeploying('terramity:flintlock_pistol', ['terramity:flintlock_pistol', 'create:iron_sheet']),
+      e.recipes.createDeploying('terramity:flintlock_pistol', ['terramity:flintlock_pistol', 'create:sturdy_sheet']),
+      e.recipes.createPressing('terramity:flintlock_pistol', ['terramity:flintlock_pistol'])
+    ]
+  ).transitionalItem('terramity:flintlock_pistol').loops(2)
+  //#endregion
+
+  //#region Terramity Rounds
+  e.recipes.create.sequenced_assembly(
+    [Item.of('16x terramity:copper_round').withChance(100.0)],
+    'create:copper_sheet',
+    [
+      e.recipes.createCutting('kubejs:incomplete_copper_round', ['kubejs:incomplete_copper_round']),
+      e.recipes.createDeploying('kubejs:incomplete_copper_round', ['kubejs:incomplete_copper_round', 'minecraft:gunpowder']),
+      e.recipes.createDeploying('kubejs:incomplete_copper_round', ['kubejs:incomplete_copper_round', 'minecraft:iron_nugget']),
+      e.recipes.createPressing('kubejs:incomplete_copper_round', ['kubejs:incomplete_copper_round'])
+    ]
+  ).transitionalItem('kubejs:incomplete_copper_round').loops(1)
+  
+  
+  e.recipes.create.sequenced_assembly(
+    [Item.of('16x terramity:gold_round').withChance(100.0)],
+    'create:golden_sheet',
+    [
+    e.recipes.createCutting('kubejs:incomplete_gold_round', ['kubejs:incomplete_gold_round']),
+    e.recipes.createDeploying('kubejs:incomplete_gold_round', ['kubejs:incomplete_gold_round', 'minecraft:gunpowder']),
+    e.recipes.createDeploying('kubejs:incomplete_gold_round', ['kubejs:incomplete_gold_round', '#forge:nuggets/copper']),
+    e.recipes.createPressing('kubejs:incomplete_gold_round', ['kubejs:incomplete_gold_round'])
+    ]
+  ).transitionalItem('kubejs:incomplete_gold_round').loops(1)
+
+  e.recipes.create.sequenced_assembly(
+    [Item.of('48x terramity:dimlite_round').withChance(100.0)],
+    'terramity:dimlite_ingot',
+    [
+      e.recipes.createCutting('kubejs:incomplete_dimlite_round', ['kubejs:incomplete_dimlite_round']),
+      e.recipes.createDeploying('kubejs:incomplete_dimlite_round', ['kubejs:incomplete_dimlite_round', 'minecraft:gunpowder']),
+      e.recipes.createDeploying('kubejs:incomplete_dimlite_round', ['kubejs:incomplete_dimlite_round', 'minecraft:iron_nugget']),
+      e.recipes.createPressing('kubejs:incomplete_dimlite_round', ['kubejs:incomplete_dimlite_round']),
+      e.recipes.createPressing('kubejs:incomplete_dimlite_round', ['kubejs:incomplete_dimlite_round'])
+    ]
+  ).transitionalItem('kubejs:incomplete_dimlite_round').loops(1)
+
+  e.recipes.create.sequenced_assembly(
+    [Item.of('16x terramity:iridium_round').withChance(100.0)],
+    'terramity:iridium_chunk',
+    [
+      e.recipes.createCutting('kubejs:incomplete_iridium_round', ['kubejs:incomplete_iridium_round']),
+      e.recipes.createDeploying('kubejs:incomplete_iridium_round', ['kubejs:incomplete_iridium_round', 'minecraft:gunpowder']),
+      e.recipes.createDeploying('kubejs:incomplete_iridium_round', ['kubejs:incomplete_iridium_round', 'minecraft:iron_nugget']),
+      e.recipes.createPressing('kubejs:incomplete_iridium_round', ['kubejs:incomplete_iridium_round']),
+      e.recipes.createPressing('kubejs:incomplete_iridium_round', ['kubejs:incomplete_iridium_round'])
+    ]
+  ).transitionalItem('kubejs:incomplete_iridium_round').loops(1)
+  
+  e.recipes.create.sequenced_assembly(
+    [Item.of('16x terramity:antimatter_round').withChance(100.0)],
+    'terramity:void_alloy',
+    [
+      e.recipes.createCutting('kubejs:incomplete_antimatter_round', ['kubejs:incomplete_antimatter_round']),
+      e.recipes.createDeploying('kubejs:incomplete_antimatter_round', ['kubejs:incomplete_antimatter_round', 'minecraft:gunpowder']),
+      e.recipes.createDeploying('kubejs:incomplete_antimatter_round', ['kubejs:incomplete_antimatter_round', 'minecraft:iron_nugget']),
+      e.recipes.createPressing('kubejs:incomplete_antimatter_round', ['kubejs:incomplete_antimatter_round']),
+      e.recipes.createPressing('kubejs:incomplete_antimatter_round', ['kubejs:incomplete_antimatter_round'])
+    ]
+  ).transitionalItem('kubejs:incomplete_antimatter_round').loops(1)
+  //#endregion
+
+  //#region Terramity Spire Key
+  e.recipes.create.sequenced_assembly(
+    [Item.of('terramity:spire_key').withChance(100.0)],
+    'terramity:dimlite_upgrade_smithing_template',
+    [
+      e.recipes.createDeploying('alexscaves:game_controller', ['alexscaves:game_controller', 'minecraft:diamond']),
       e.recipes.createDeploying('alexscaves:game_controller', ['alexscaves:game_controller', 'minecraft:diamond']),
       e.recipes.createPressing('alexscaves:game_controller', ['alexscaves:game_controller'])
-  ]).transitionalItem('alexscaves:game_controller').loops(2)          
+    ]
+  ).transitionalItem('alexscaves:game_controller').loops(2)          
 
-e.recipes.create.sequenced_assembly([
-  Item.of('terramity:spire_key').withChance(100.0)
-], 'terramity:virentium_upgrade_smithing_template', [
-  e.recipes.createDeploying('alexscaves:game_controller', ['alexscaves:game_controller', 'minecraft:diamond']),
+  e.recipes.create.sequenced_assembly(
+    [Item.of('terramity:spire_key').withChance(100.0)],
+    'terramity:virentium_upgrade_smithing_template',
+    [
+      e.recipes.createDeploying('alexscaves:game_controller', ['alexscaves:game_controller', 'minecraft:diamond']),
       e.recipes.createDeploying('alexscaves:game_controller', ['alexscaves:game_controller', 'minecraft:diamond']),
       e.recipes.createPressing('alexscaves:game_controller', ['alexscaves:game_controller'])
-  ]).transitionalItem('alexscaves:game_controller').loops(2)     
+    ]
+  ).transitionalItem('alexscaves:game_controller').loops(2)
+  //#endregion
+});
 
-})
-ServerEvents.recipes(e => {
-e.recipes.create.sequenced_assembly([
-Item.of('terramity:basic_pistol').withChance(80.0),
-Item.of('create:iron_sheet').withChance(10.0),
-Item.of('8x minecraft:iron_nugget').withChance(10.0)
-], 'terramity:flintlock_pistol', [
-e.recipes.createDeploying('terramity:flintlock_pistol', ['terramity:flintlock_pistol', 'create:iron_sheet']),
-    e.recipes.createDeploying('terramity:flintlock_pistol', ['terramity:flintlock_pistol', 'create:sturdy_sheet']),
-    e.recipes.createPressing('terramity:flintlock_pistol', ['terramity:flintlock_pistol'])
-]).transitionalItem('terramity:flintlock_pistol').loops(2)
-})
 ServerEvents.recipes(e => {
   e.recipes.create.splashing('9x caverns_and_chasms:silver_nugget', 'create:crushed_raw_silver')
 })

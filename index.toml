@@ -27182,7 +27182,7 @@ hash = "5747b799e9b02cf4d5fcf9da807dff746db37382c609381fad40b81242a33b7c"
 
 [[files]]
 file = "kubejs/server_scripts/create.js"
-hash = "52ce129f7c1fd3e3bf63459acc7c1c869d8500b6d39d448b1110591bf8db1f14"
+hash = "a3efe6e25658a51f1e95c361122b08cf71afcc01a1885ff652baf82177ffcb6c"
 
 [[files]]
 file = "kubejs/server_scripts/fd.js"
