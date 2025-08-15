@@ -1,0 +1,17 @@
+## 1.1.0
+- Added `Transmog`
+- Added `Corpse x Curios` Compat
+- Added `Hexcasting` along with the following addons:
+ - HexTweaks
+ - MoreIotas
+ - HexDebug
+ - HexFlow
+ - Caduceus
+ - IoticBlocks
+- Added `CC:Tweaked` (ComputerCraft) along with the following addons:
+ - Advanced Peripherals
+ - Ducky Peripherals
+ - Turtlematic
+- Downgraded the following mods for stability reasons:
+ - Nirvana (1.2.1 -> 1.1.1)
+ - Species (3.4 -> 2.3)
