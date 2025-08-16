@@ -492,7 +492,7 @@
           }
         ],
         "boss": {
-          "type": "species:quake",
+            "type": "cataclysm:draugr",
           "count": 1
         },
         "game_stage": "normal",
@@ -535,10 +535,6 @@
           {
             "type": "cataclysm:draugr",
             "count": 7
-          },
-          {
-            "type": "species:quake",
-            "count": 1
           }
         ],
         "boss": {
