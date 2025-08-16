@@ -25038,7 +25038,7 @@ hash = "cb33d48e8c3d60d977d6957a29baad2b219b447cdf2c7bcb3f9cb93961df4c50"
 
 [[files]]
 file = "config/majruszsdifficulty.json"
-hash = "221e78272f2f8a6380eae8f5d2e7231f70778e04698470640bfd0f821e66f12a"
+hash = "546bf2f47d4dec059c8f56c3418e6518ef2dfe72736338cbfc3308400445348e"
 
 [[files]]
 file = "config/meetyourfight-common.toml"

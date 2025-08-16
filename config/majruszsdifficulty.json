@@ -429,22 +429,16 @@
           {
             "type": "minecraft:zombie",
             "equipment": "majruszsdifficulty:undead_army/wave_1_mob",
-            "count": 2
+            "count": 4
           },
           {
             "type": "minecraft:skeleton",
             "equipment": "majruszsdifficulty:undead_army/wave_1_mob",
-            "count": 2
+            "count": 4
           },
           {
-            "type": "minecraft:zombie",
-            "equipment": "majruszsdifficulty:undead_army/wave_1_mob",
-            "count": 2
-          },
-          {
-            "type": "minecraft:skeleton",
-            "equipment": "majruszsdifficulty:undead_army/wave_1_mob",
-            "count": 2
+            "type": "species:wicked",
+            "count": 3
           }
         ],
         "game_stage": "normal",
@@ -455,22 +449,16 @@
           {
             "type": "minecraft:zombie",
             "equipment": "majruszsdifficulty:undead_army/wave_2_mob",
-            "count": 2
+            "count": 5
           },
           {
             "type": "minecraft:skeleton",
             "equipment": "majruszsdifficulty:undead_army/wave_2_mob",
-            "count": 3
+            "count": 5
           },
           {
-            "type": "minecraft:zombie",
-            "equipment": "majruszsdifficulty:undead_army/wave_2_mob",
-            "count": 3
-          },
-          {
-            "type": "minecraft:skeleton",
-            "equipment": "majruszsdifficulty:undead_army/wave_2_mob",
-            "count": 2
+            "type": "caverns_and_chasms:mime",
+            "count": 1
           }
         ],
         "game_stage": "normal",
@@ -497,10 +485,14 @@
             "type": "minecraft:stray",
             "equipment": "majruszsdifficulty:undead_army/wave_3_skeleton",
             "count": 3
+          },
+          {
+            "type": "caverns_and_chasms:mime",
+            "count": 1
           }
         ],
         "boss": {
-          "type": "majruszsdifficulty:tank",
+          "type": "species:quake",
           "count": 1
         },
         "game_stage": "normal",
@@ -509,47 +501,11 @@
       {
         "mobs": [
           {
-            "type": "minecraft:zombie",
-            "equipment": "majruszsdifficulty:undead_army/wave_4_mob",
+            "type": "warriorsofpastepoch:skeleton_musketeer",
             "count": 2
           },
           {
-            "type": "minecraft:wither_skeleton",
-            "equipment": "majruszsdifficulty:undead_army/wave_4_mob",
-            "count": 1
-          },
-          {
-            "type": "minecraft:skeleton",
-            "equipment": "majruszsdifficulty:undead_army/wave_4_skeleton",
-            "count": 2
-          },
-          {
-            "type": "minecraft:wither_skeleton",
-            "equipment": "majruszsdifficulty:undead_army/wave_4_mob",
-            "count": 1
-          },
-          {
-            "type": "majruszsdifficulty:tank",
-            "count": 1
-          },
-          {
-            "type": "minecraft:husk",
-            "equipment": "majruszsdifficulty:undead_army/wave_4_mob",
-            "count": 3
-          },
-          {
-            "type": "minecraft:wither_skeleton",
-            "equipment": "majruszsdifficulty:undead_army/wave_4_mob",
-            "count": 1
-          },
-          {
-            "type": "minecraft:stray",
-            "equipment": "majruszsdifficulty:undead_army/wave_4_skeleton",
-            "count": 3
-          },
-          {
-            "type": "minecraft:wither_skeleton",
-            "equipment": "majruszsdifficulty:undead_army/wave_4_mob",
+            "type": "irons_spellbooks:necromancer",
             "count": 1
           }
         ],
@@ -559,42 +515,16 @@
       {
         "mobs": [
           {
-            "type": "minecraft:zombie",
-            "equipment": "majruszsdifficulty:undead_army/wave_5_mob",
-            "count": 1
-          },
-          {
-            "type": "minecraft:skeleton",
-            "equipment": "majruszsdifficulty:undead_army/wave_5_skeleton",
-            "count": 1
-          },
-          {
-            "type": "minecraft:stray",
-            "equipment": "majruszsdifficulty:undead_army/wave_5_skeleton",
+            "type": "warriorsofpastepoch:skeleton_musketeer",
             "count": 3
           },
           {
-            "type": "minecraft:wither_skeleton",
-            "equipment": "majruszsdifficulty:undead_army/wave_5_mob",
-            "count": 2
-          },
-          {
-            "type": "majruszsdifficulty:tank",
-            "count": 1
-          },
-          {
-            "type": "minecraft:husk",
-            "equipment": "majruszsdifficulty:undead_army/wave_5_mob",
-            "count": 3
-          },
-          {
-            "type": "minecraft:wither_skeleton",
-            "equipment": "majruszsdifficulty:undead_army/wave_5_mob",
+            "type": "terramity:elite_skeleton",
             "count": 2
           }
         ],
         "boss": {
-          "type": "majruszsdifficulty:cerberus",
+          "type": "mutantmonsters:mutant_skeleton",
           "count": 1
         },
         "game_stage": "expert",
@@ -603,42 +533,16 @@
       {
         "mobs": [
           {
-            "type": "minecraft:zombie",
-            "equipment": "majruszsdifficulty:undead_army/wave_6_mob",
-            "count": 1
+            "type": "cataclysm:draugr",
+            "count": 7
           },
           {
-            "type": "minecraft:skeleton",
-            "equipment": "majruszsdifficulty:undead_army/wave_6_skeleton",
-            "count": 1
-          },
-          {
-            "type": "majruszsdifficulty:tank",
-            "count": 1
-          },
-          {
-            "type": "minecraft:stray",
-            "equipment": "majruszsdifficulty:undead_army/wave_6_skeleton",
-            "count": 1
-          },
-          {
-            "type": "minecraft:husk",
-            "equipment": "majruszsdifficulty:undead_army/wave_6_mob",
-            "count": 1
-          },
-          {
-            "type": "minecraft:wither_skeleton",
-            "equipment": "majruszsdifficulty:undead_army/wave_6_wither_skeleton",
-            "count": 1
-          },
-          {
-            "type": "majruszsdifficulty:cerberus",
+            "type": "species:quake",
             "count": 1
           }
         ],
         "boss": {
-          "type": "majruszsdifficulty:giant",
-          "equipment": "majruszsdifficulty:undead_army/wave_6_mob",
+          "type": "mutantmonsters:mutant_zombie",
           "count": 1
         },
         "game_stage": "master",
