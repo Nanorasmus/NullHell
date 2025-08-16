@@ -27309,6 +27309,11 @@ hash = "258431b158c3adc8e7bf4ac8ea9cec20def2e3c373294488d72c238bcbd7538a"
 metafile = true
 
 [[files]]
+file = "mods/attributesetter.pw.toml"
+hash = "9e0fd3b68421c7f0017592af7d29e2e7c203c893b85b0a85302ce38e1fb34fcd"
+metafile = true
+
+[[files]]
 file = "mods/auudio.pw.toml"
 hash = "6620a1c58f283e37cbb1b73a82644808bf635817bd5fda6676d48e150acc994f"
 metafile = true

@@ -1,0 +1,13 @@
+name = "AttributeSetter"
+filename = "attributesetter-1.11-forge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/tbDE3NLR/versions/Wmh5YYaI/attributesetter-1.11-forge.jar"
+hash-format = "sha512"
+hash = "75e2e686a4abcc321444554f93dfac3f0e8ca7c1ca3f8b2588a4701a2b363d4015115031f239f95dce546dfdca7119eb9f01d5c2cd7ee157d043fbb14ae2af4f"
+
+[update]
+[update.modrinth]
+mod-id = "tbDE3NLR"
+version = "Wmh5YYaI"
