@@ -27201,6 +27201,10 @@ file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
+file = "kubejs/startup_scripts/lootbags.js"
+hash = "6780e211e464a73d0b22fa101356cf351afb39a2d176b73ad237043ffbc13b1b"
+
+[[files]]
 file = "kubejs/startup_scripts/stuff.js"
 hash = "9584264aee63d24cad048ab3aa326a1f89b1a006e17a2ae240204928806f5d4c"
 
