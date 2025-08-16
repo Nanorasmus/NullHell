@@ -1,3 +1,5 @@
+/.vscode/*
+
 # Exclude exported CurseForge zip files
 *.zip
 
