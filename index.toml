@@ -27202,7 +27202,7 @@ hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "kubejs/startup_scripts/lootbags.js"
-hash = "6780e211e464a73d0b22fa101356cf351afb39a2d176b73ad237043ffbc13b1b"
+hash = "ad6280e7ab5bf2b8bbd420aa3d597d613367e46cf6d767f4a1e8b9775b1a850d"
 
 [[files]]
 file = "kubejs/startup_scripts/stuff.js"

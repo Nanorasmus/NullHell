@@ -1,4 +1,4 @@
-const lootbag_texture = "kubejs:example_item.png"
+const lootbag_texture = "kubejs:item/example_item.png"
 
 // Loot tables
 const common_loot_table = [
@@ -76,8 +76,8 @@ const giveRewards = function (player, loot_table, draw_count, luck_modifier) {
 }
 
 const createLootBagItem = function (event, id, color, name, loot_table, draw_count) {
-    event.create('lootbag_common')
-        .displayName('Loot Bag (Common)')
+    event.create(id)
+        .displayName(name)
         // Visuals
         .texture(lootbag_texture)
         .color(color)
