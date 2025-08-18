@@ -1,6 +1,8 @@
 ## 1.1.0
 - Added `Transmog`
+- Added `Bosses'Rise`
 - Added `Corpse x Curios` Compat
+- Added `Illage and Spillage` and the `Illage and Spell-Age` addon
 - Added `Hexcasting` along with the following addons:
  - HexTweaks
  - MoreIotas

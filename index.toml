@@ -62,7 +62,7 @@ hash = "cef53633738f525e199c31545bf919e6123285cf1a1845bb87a99efc7deeb468"
 
 [[files]]
 file = "config/alexscaves_biome_generation/abyssal_chasm.json"
-hash = "d286a521c5fd852ef189e15f02952d3e6f529efbb67fe769d88d45183279c3b9"
+hash = "02120d68d535ce346b1d66d42a039a0683ee4432b8537d70fbb2f1bf59c4d364"
 
 [[files]]
 file = "config/alexscaves_biome_generation/candy_cavity.json"
@@ -27388,6 +27388,11 @@ hash = "a748351943c09e8cb6e90e56b7419c9420d76072c822a2c8c7b0f7f6f636648c"
 metafile = true
 
 [[files]]
+file = "mods/bossesrise.pw.toml"
+hash = "cf14a3413066302bbd8b4bf2c7b0de0e4c5b69efffa0c799bf3da5da479501be"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "d47b75b30e711de67e9de2ce05fd5979a89e5aacb5c0fd036c6f9466b1da2665"
 metafile = true
@@ -27733,6 +27738,16 @@ hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
 metafile = true
 
 [[files]]
+file = "mods/illage-and-spell-age.pw.toml"
+hash = "9051ca0fe43784f6e85fa9ca55850e29577e353482ed962b85e3d30ae0535cd0"
+metafile = true
+
+[[files]]
+file = "mods/illage-and-spillage-finally-ported.pw.toml"
+hash = "1b432be6fcd71498c8ff3bbd0dea02a20e0d306c596377df77089664e00a562a"
+metafile = true
+
+[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "06d89bbcca9f454369e193c6f042a8931d40d57c53ae9aff2f7a25c106c70f5d"
 metafile = true
@@ -28048,7 +28063,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
+hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
 
 [[files]]
